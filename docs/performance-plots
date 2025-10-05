@@ -1,4 +1,4 @@
 Performance results of Insertion Sort.
-
 The benchmark shows that as input size increases, the execution time and number of operations
 increase significantly, demonstrating quadratic time complexity (O(n^2)).
+
