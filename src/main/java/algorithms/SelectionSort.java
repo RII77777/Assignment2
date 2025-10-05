@@ -25,7 +25,6 @@ public class SelectionSort {
                 swap(arr, i, minIndex, tracker);
             }
 
-            // Ранняя остановка: если за проход не найдено меньших — массив уже отсортирован
             if (sorted) break;
         }
     }
