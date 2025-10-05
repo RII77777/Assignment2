@@ -5,4 +5,3 @@ It includes implementation of both algorithms and a benchmark runner to test the
 The project is built using Java and Maven.
 
 To run the program, open the project in IntelliJ IDEA and run the class cli.BenchmarkRunner.
-You can also use Maven command to execute it.
