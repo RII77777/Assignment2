@@ -1,3 +1,5 @@
+InsertionSort implementation and benchmark were developed collaboratively with Akbota Bekturgan.
+
 1. Algorithm Overview
 
 The provided implementation is an optimized version of the Insertion Sort algorithm.
@@ -62,3 +64,4 @@ For nearly sorted arrays, execution time should decrease noticeably due to the e
 The partner’s implementation of Insertion Sort is correct, efficient for small and semi-sorted datasets, and demonstrates clear metric tracking.
 Potential improvements include integrating the PerformanceTracker, testing scalability on larger datasets, and considering hybrid sorting strategies.
 Overall, the code is logically structured and well-suited for benchmarking and educational purposes.
+
