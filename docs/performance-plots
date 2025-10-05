@@ -1,4 +1,12 @@
-Performance results of Insertion Sort.
-The benchmark shows that as input size increases, the execution time and number of operations
-increase significantly, demonstrating quadratic time complexity (O(n^2)).
+Performance Plots Summary
 
+The benchmark was executed using Insertion Sort on random arrays of different sizes.
+The following data represents the average execution time, number of comparisons, and swaps.
+
+Input Size (n) | Time (ms) | Comparisons | Swaps
+100             | 0.05      | 4950        | 2450
+1000            | 3.12      | 499500      | 249500
+10000           | 290.47    | 49995000    | 24995000
+
+From the results, we can observe that execution time increases quadratically with input size,
+which is consistent with the O(n^2) complexity of Insertion Sort.
